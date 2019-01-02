@@ -1,7 +1,6 @@
-# Created at 2018.11.07 by Ultraxia
+# Created at 2018.11.07 by Ultra Fu
 
 import requests
-import pymysql
 import json
 import time
 
